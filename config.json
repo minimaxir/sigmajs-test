@@ -4,7 +4,7 @@
   "data": "data.json",
   "logo": {
     "file": "",
-    "link": "",
+    "link": "http://minimaxir.com",
     "text": "Max"
   },
   "text": {
@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "Edge",
-    "colorLabel": "Centrality",
+    "colorLabel": "Modularity",
     "nodeLabel": "Word"
   },
   "features": {
