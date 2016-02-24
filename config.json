@@ -4,22 +4,22 @@
   "data": "data.json",
   "logo": {
     "file": "",
-    "link": "http://minimaxir.com",
-    "text": "Max"
+    "link": "",
+    "text": "Max Woolf"
   },
   "text": {
-    "more": "sdf",
-    "intro": "sdf",
-    "title": "Title"
+    "more": "",
+    "intro": "",
+    "title": ""
   },
   "legend": {
-    "edgeLabel": "Edge",
-    "colorLabel": "Modularity",
-    "nodeLabel": "Word"
+    "edgeLabel": "# of submisstions earning 3k+",
+    "colorLabel": "Modularity Class",
+    "nodeLabel": "Canidate Name/Subreddit"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "Eigenvector Centrality",
+    "groupSelectorAttribute": false,
     "hoverBehavior": "dim"
   },
   "informationPanel": {
@@ -33,17 +33,17 @@
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
       "defaultLabelColor": "#000",
-      "labelThreshold": 10,
+      "labelThreshold": 0,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 0.5,
+      "maxEdgeSize": 1,
       "minEdgeSize": 0.2,
       "minNodeSize": 1,
-      "maxNodeSize": 7
+      "maxNodeSize": 15
     },
     "mouseProperties": {
       "maxRatio": 20,
